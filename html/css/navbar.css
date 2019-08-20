@@ -16,11 +16,11 @@
 }
 .navbar #navbarText{
 	font-family: 'Roboto', sans-serif;
-	font-size: 18px;
+	font-size: 14px;
 	color: #D50000;
 	font-weight: 300;
 	display: inline-block;
-	line-height: 18px;
+	line-height: 20px;
 	padding-top: 0;
 	padding-bottom: 4px;
 	margin-bottom: 0;
