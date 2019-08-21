@@ -29,7 +29,7 @@
 }
 .navbar #navbarText small{
 	font-style: italic;
-	font-size: 12px;
+	font-size: 14px;
 	font-weight: 300;
 	color: #333;
 	text-align: center;
@@ -51,7 +51,7 @@
 }
 .navbar .navbar-nav > li > a:hover,
 .navbar .navbar-nav > li > a:focus {
- 	color: #1565C0;
+ 	color: #9b2a1e;
 }
 .navbar-nav .dropdown-menu {
 	box-shadow: 2px 2px 10px rgba(0,0,0,0.175);
@@ -98,7 +98,7 @@
 }
 
 .navbar .navbar-nav > li {
-	padding: 10px;
+	padding: 20px
 }
 .navbar-light .navbar-toggler {
 	border-color: transparent;
@@ -109,7 +109,7 @@
 .navbar .navbar-nav > li > a,
 .navbar .form-inline input {
   font-family: 'Raleway', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   color: #333;
   font-weight: 400;
   text-decoration: none;
@@ -160,7 +160,7 @@ li.navSeparator{
 		margin: 5px 0 5px 0px;
 	}
 	.navbar #navbarText{
-		font-size: 24px;
+		font-size: 22px;
 		line-height: 24px;
 		padding-top: 0;
 		padding-bottom: 4px;
@@ -191,4 +191,22 @@ li.navSeparator{
 	.navbar .navbar-nav .open .dropdown-menu>li>a {
 		color: #FFF;
 	}
+
+	.navbar .navbar-text img{
+		width: 50%;
+	}
+
+	.navbar #navbarText{
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	display: inline-block;
+	line-height: 20px;
+	padding-top: 0;
+	padding-bottom: 4px;
+	margin-bottom: 0;
+	margin-top: 0;
+	text-align: center;
+}
+
 }
